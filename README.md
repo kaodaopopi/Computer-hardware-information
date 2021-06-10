@@ -1,1 +1,1 @@
-# Computer-hardware-information
+![image](picture or gif url)
