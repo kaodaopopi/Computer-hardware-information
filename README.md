@@ -20,6 +20,7 @@
 ```
 <requestedExecutionLevel level="asInvoker" uiAccess="false" />
 ```
+->
 ```
 <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
 ```
