@@ -18,5 +18,8 @@
 `點開app.manifest，修改程式碼，將asInvoker改成requireAdministrator(為了使程式已系統管理員身分執行)`
 
 ```
-    <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+<requestedExecutionLevel level="asInvoker" uiAccess="false" />
+```
+```
+<requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
 ```
