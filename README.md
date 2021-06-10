@@ -33,7 +33,8 @@
 ![GITHUB](https://github.com/kaodaopopi/Computer-hardware-information/blob/main/1.JPG)
 
 # 注意
-## 本程式並不支援AMD的顯示卡(如要支援，請將Form1.cs裡面的GpuNvidia改成GpuAti)<font color=#FF0000>紅色</font>
+## 本程式並不支援AMD的顯示卡(如要支援，請將Form1.cs裡面的GpuNvidia改成GpuAti)
+<font color=#FF0000>紅色</font>
 
 
 
