@@ -24,3 +24,8 @@
 ```
 <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
 ```
+
+## 第五步
+
+`對專案右鍵 -> 屬性 -> 安全性 -> 取修勾選 啟用ClickOnce安全性設定`
+
