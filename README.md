@@ -1,1 +1,1 @@
-![image](picture or gif url)
+![image](test.jpg)
