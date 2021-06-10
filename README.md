@@ -11,7 +11,12 @@
 
 ## 第三步
 
-、adsasd、
+`對專案右鍵 -> 加入 -> 類別 -> 找到應用程式資訊清單檔案(預設名稱:app.manifest) -> 按下新增`
 
 ## 第四步
 
+`點開app.manifest，修改程式碼，將asInvoker改成requireAdministrator(為了使程式已系統管理員身分執行)`
+
+    ```js
+    <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+    ```
