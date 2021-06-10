@@ -34,7 +34,7 @@
 
 # 注意
 ## 本程式並不支援AMD的顯示卡(如要支援，請將Form1.cs裡面的GpuNvidia改成GpuAti)
-<font color=#FFD700>金色</font>
+深红色文字：<font color="#660000">深红色文字</font><br /> 
 
 
 
