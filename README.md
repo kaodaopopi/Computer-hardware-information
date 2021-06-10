@@ -20,7 +20,7 @@
 ```
 <requestedExecutionLevel level="asInvoker" uiAccess="false" />
 ```
-->
+變成
 ```
 <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
 ```
