@@ -1,6 +1,8 @@
 **結果圖**
 ![GITHUB](https://github.com/kaodaopopi/Computer-hardware-information/blob/main/CI.JPG)
 
+# 事前準備
+
 ## 第一步
 
 `需使用OpenHardwareMonitor套件，官方網站：http://openhardwaremonitor.org/，`
@@ -28,4 +30,6 @@
 ## 第五步
 
 `對專案右鍵 -> 屬性 -> 安全性 -> 取修勾選 啟用ClickOnce安全性設定`
+![GITHUB](https://github.com/kaodaopopi/Computer-hardware-information/blob/main/1.JPG)
+
 
