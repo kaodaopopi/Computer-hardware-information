@@ -30,6 +30,7 @@
 ## 第五步
 
 `對專案右鍵 -> 屬性 -> 安全性 -> 取修勾選 啟用ClickOnce安全性設定`
+
 ![GITHUB](https://github.com/kaodaopopi/Computer-hardware-information/blob/main/1.JPG)
 
 # 注意
