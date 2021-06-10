@@ -17,7 +17,7 @@
 
 ## 第四步
 
-`點開app.manifest，修改程式碼，將asInvoker改成requireAdministrator(為了使程式已系統管理員身分執行)`
+`點開app.manifest，修改程式碼，將asInvoker改成requireAdministrator(為了使程式以系統管理員身分執行)`
 
 ```
 <requestedExecutionLevel level="asInvoker" uiAccess="false" />
@@ -31,5 +31,9 @@
 
 `對專案右鍵 -> 屬性 -> 安全性 -> 取修勾選 啟用ClickOnce安全性設定`
 ![GITHUB](https://github.com/kaodaopopi/Computer-hardware-information/blob/main/1.JPG)
+
+# 注意
+##本程式並不支援AMD的顯示卡(如要支援，請將Form1.cs裡面的GpuNvidia改成GpuAti)
+
 
 
