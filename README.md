@@ -1,4 +1,4 @@
-**結果圖**
+** 結果圖**
 ![GITHUB](https://github.com/kaodaopopi/Computer-hardware-information/blob/main/CI.JPG)
 
 # 事前準備
